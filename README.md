@@ -18,12 +18,6 @@ Firmware / Requirements
 PCB Manufacture
 ---------------
 
-You may get any PCB manufacturer to produce the board for you. The board is 2-layer. I recommend DirtyPCBs 
-
-This link takes you to a store to buy them 
-
-http://dirtypcbs.com/store/designer/details/12476/1120/sl520-rev3-zip
-
 To populate a PCB you will likely need the following tools.
 
   * Soldering Station (with hot air rework and an iron - probably with a few tips)
