@@ -1,7 +1,7 @@
 Terrible Fire 68020 "Accelerator"
 =================================
 
-** WARNING THIS IS BETA AT THE MOMENT
+** I AM NO LONGER WORKING ON THIS. REQUESTS FOR SUPPORT WILL BE IGNORED.
 
 This repository contains all the files needed to produce a copy of my accelerator board.
 
